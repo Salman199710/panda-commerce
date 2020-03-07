@@ -1,0 +1,92 @@
+.orange-bg{
+    background-color: #FEEAE9;
+    border-radius: 5px;
+    height: 450px ;
+    
+    
+}
+.carousel-item{
+    padding: 100px 60px;
+}
+.col-md-7{
+    padding-top: 80px;
+}
+.price{
+    color: #FF136F;
+}
+.buy{
+    background-color: brown;
+    color:bisque;
+    padding: 5px;
+    border-radius: 5px;
+    background-image: linear-gradient(to bottom, );
+    cursor: pointer;
+}
+.container{
+    
+    margin-bottom: 100px;
+    
+   .container img{
+       width: 200px;
+
+   } 
+}
+.cat1{
+    background-color: orange;
+    border-radius: 5px;
+    background-image: linear-gradient(45deg, orange, yellow);
+}
+.cat2{
+    background-color: peru;
+    border-radius: 5px;
+    background-image: linear-gradient(45deg ,peru, red);
+}
+.cat3{
+    background-color: red;
+    border-radius: 5px;
+    background-image: linear-gradient(45deg, red, brown
+    );
+}
+.container-catagories{
+    padding-top: 50px;
+}
+.watch{
+    
+    color:white;
+    float: left;
+    padding-left: 15px;
+    padding-top: 20px;
+    
+    
+}
+.bag{
+    padding-top: 20px;
+float: left;
+padding-left: 15px;
+margin-left: 5px;
+color: white;
+
+
+
+}
+.shoes{
+padding-top: 20px;
+float: left;
+padding-left: 15px;
+color: white;
+
+}
+
+
+.thing1{
+    padding-left: 15px;
+}
+.thing2{
+    padding-left: 45px;
+}
+.thing3{
+    padding-left: 15px;
+}
+.container-catagories img{
+    
+}
